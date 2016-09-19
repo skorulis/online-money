@@ -1,0 +1,50 @@
+---
+layout: moneySite
+title:  "GiftHulk"
+date:   2016-09-18
+referral-link: "http://www.gifthulk.com/invite/SK1388864"
+minimum-redeem: $5
+earn-unit: Hulk coins (HC) 1000 HC = $1
+total-earned: 383 HC
+from-referal: 0
+total-paid: 0
+
+categories: site
+---
+
+
+Ways to earn
+---
+
+* 250 HC for signing up
+* Search: 4 HC for performing a search, resets hourly
+* Surveys: These bounce all over the place between different providers. It makes it a bit difficult to understand what's going on. I filled out the same initial questions 10 times without ever finding a survey which I was able to complete
+* Videos: Couldn't find any it would let me watch
+* HulkTV: 25 HC for 5 videos. There were none available for me unfortunately
+
+Daily rewards
+---
+
+* Currently at 70HC
+
+Competitions
+------
+
+* Guess the card to win 50HC. 5 attempts 0 wins
+
+
+Referral bonus
+--------
+
+* Up to 600 HC. No mention of % earnings
+
+Overall
+-------
+
+* Having HC worth so little means you feel like you're earning a lot when in reality it's very little.
+* Seems like some of the offers are broken
+* Some offers seem very untrustworthy
+
+
+
+

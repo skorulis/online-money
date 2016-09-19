@@ -1,0 +1,30 @@
+---
+layout: moneySite
+title:  "Perk TV"
+date:   2016-09-18
+minimum-redeem: ???
+earn-unit: Perk points (PP) 1500 PP = $1
+total-earned: 108
+from-referal: 0
+total-paid: 0
+
+categories: site
+---
+
+* Has a huge family of apps. No idea why it needs so many and the constant changing between them gets really confusing.
+
+
+Ways to earn
+---
+
+* 100 points on startup
+* Videos: 2-4 PP per video. Leaving videos playing on a device works well but you get no credit for watching in a browser
+
+
+Overall
+-------
+
+* Installing the app on a device and letting it run all day will generate a modest income.
+
+
+

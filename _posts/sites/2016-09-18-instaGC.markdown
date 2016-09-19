@@ -1,0 +1,35 @@
+---
+layout: moneySite
+title:  "InstaGC"
+date:   2016-09-18
+referral-link: "https://www.instagc.com/skorulis"
+minimum-redeem: ???
+earn-unit: point 1 point = $0.01
+total-earned: 12 points
+from-referal: 0
+total-paid: 0
+
+categories: site
+---
+
+
+Ways to earn
+---
+
+* 10 points for signing up
+* Search: Have not seen anything come of this
+
+Referral bonus
+--------
+
+* 10 points per referral + 10% of what they earn
+
+
+Overall
+-------
+
+* So far I've gotten very little from InstaGC.
+
+
+
+
