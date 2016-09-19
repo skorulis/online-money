@@ -9,6 +9,7 @@ unit: SB
 total-earned: 150
 from-referal: 0
 total-paid: 0
+rating: 9/10
 
 categories: site
 ---
@@ -51,7 +52,7 @@ Referral bonus
 Overall
 -------
 
-* Swagbucks is a pleasant site to use but there isn't much in the way of earning potential. The surveys give decent rewards but are time consuming to complete. There's some good app download deals but they don't come up that often. 
+* Swagbucks is a pleasant site to use but there isn't much in the way of earning potential. The surveys give decent rewards but are time consuming to complete. There's some good app download deals but they don't come up that often. There's a lot of daily videos to watch which are enough to reach the daily goals
 
 
 
