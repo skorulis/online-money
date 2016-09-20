@@ -23,16 +23,25 @@ layout: default
 	<div class="features site-params">
 		{% assign features = page.features | split: ',' %}
 		{% for f in features %}
-			<p>
-			{{ f }}<br/>
-			{% if f == "search" %}
+			{% assign fName = f | split: '.' | first %}
+			{% assign fClass = f | split: '.' | last %}
+			
+			<p class="color-{{ fClass }}">
+			{{ fName }}<br/>
+			{% if fName == "search" %}
 				<i class="icon-search"></i>
-			{% elsif f == "surveys" %}
-				<i class="icon-th"></i>
-			{% elsif f == "videos" %}
+			{% elsif fName == "surveys" %}
+				<i class="icon-th-list"></i>
+			{% elsif fName == "videos" %}
 				<i class="icon-video"></i>	
-			{% elsif f == "games" %}
-				<i class="icon-gamepad"></i>	
+			{% elsif fName == "games" %}
+				<i class="icon-gamepad"></i>
+			{% elsif fName == "offer wall" %}
+				<i class="icon-th"></i>
+			{% elsif fName == "shopping" %}
+				<i class="icon-basket"></i>	
+			{% elsif fName == "sweeps" %}
+				<i class="icon-ticket"></i>	
 			{% endif %}
 			</p>
 		{% endfor %}	

@@ -14,7 +14,7 @@ rating: 9
 permalink: /:categories/:title.html
 banner-img: swagbucks-banner.png
 icon-img: swagbucks-icon.png
-features: search,surveys,videos,games,offer wall,shopping
+features: search.1,surveys.2,videos.2,games.2,offer wall.2,shopping.2,sweeps.2
 
 categories: site
 ---
@@ -25,16 +25,14 @@ Swagbucks is a good looking site that offers a number of ways to earn money.
 Ways to earn
 ---
 
-* Get around 120 SB by completing all the bits and pieces during sign up
-* Surveys: Get on average 75SB per survey.
+* You can get around 120 SB by completing all the bits and pieces during sign up.
+* Surveys: Get on average 75SB per survey. If you do not qualify you get 1SB. Unfortunately it often takes 5 minutes just to find out if you qualify
 * Shopping: Cashback for various retailers ranging from 1%-9%
-* Videos: Earn 1SB - 3SB for watching 6-20 short videos
+* Videos: Earn 1SB - 3SB for watching 6-20 short videos.
 * TV: Looping channels that play in a separate window. Earns about 3 SB every 25 minutes
 * Games: Up to 25SB for playing games
 * Apps: Up to 150SB for download apps
-* Search: I got 20SB for the first search but am yet to see anything after this
-* Daily search 5SB
-
+* Search: I got 20SB for the first search but am yet to see anything after this. The site says the payouts are random for this
 
 
 Sweeps
@@ -57,7 +55,9 @@ Referral bonus
 Overall
 -------
 
-* Swagbucks is a pleasant site to use but there isn't much in the way of earning potential. The surveys give decent rewards but are time consuming to complete. There's some good app download deals but they don't come up that often. There's a lot of daily videos to watch which are enough to reach the daily goals
+* Swagbucks is one of the much more pleasant sites to use, it does crash or get stuck and I haven't had anything fail to reward me. It also feels less crippled for Australian users than many other sites. The surveys give decent rewards but are time consuming to complete but better than some other sites. There's some good app download deals but they don't come up that often. There's a lot of daily videos to watch which are enough to reach the daily goals which if reached every day will pay out decently at the end of the month.
+
+If you're looking for a place to start I would recommend this.
 
 
 
