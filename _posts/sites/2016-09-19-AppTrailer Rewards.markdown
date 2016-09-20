@@ -2,19 +2,22 @@
 layout: moneySite
 title:  "AppTrailer Rewards"
 date:   2016-09-19
-referral-link: "https://www.usertesting.com"
+referral-link: "http://apptrailers.com/"
 minimum-redeem: $5
 earn-unit: Credits
 conversion: 2000 credits = $1
 total-earned: 25
 from-referal: 0
 total-paid: 0
-rating: "2/10"
+rating: 2
+permalink: /:categories/:title.html
 
 categories: site
 ---
 
-AppTrailer rewards shows app trailer videos. Very simple.
+NEED TO CHECK THIS
+
+AppTrailer rewards shows app trailer videos. Very simple. 
 
 
 Ways to earn

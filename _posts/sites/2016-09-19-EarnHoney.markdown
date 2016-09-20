@@ -9,7 +9,9 @@ earn-unit: HoneyDollars (HD) 100HD = $1
 total-earned: 0
 from-referal: 0
 total-paid: 0
-rating: 5/10
+rating: 5
+permalink: /:categories/:title.html
+icon-img: earnhoney-icon.png
 
 categories: site
 ---

@@ -12,6 +12,8 @@ total-earned: 383 HC
 from-referal: 0
 total-paid: 0
 features: search,surveys,videos,games
+permalink: /:categories/:title.html
+rating: 6
 
 categories: site
 ---

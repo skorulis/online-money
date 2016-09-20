@@ -53,12 +53,6 @@ $on-laptop:        800px;
         "money-codes"
 ;
 
-.site-params {
-  display:flex;
-  flex-direction: row;
-  text-align: center;
-}
-
 @font-face {
       font-family: 'money';
       src: url('/font/money.eot?97236588');
@@ -77,13 +71,28 @@ i {
     speak: none;
 }
 
+.center-block {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .site-icon {
   max-width: 200px;
   max-height: 200px;
 }
 
+.site-params {
+  display:flex;
+  flex-direction: row;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
 .site-params p {
   padding:10px;
+  flex-shrink: 0;
 }
 
 .color-0 {
@@ -96,4 +105,14 @@ i {
 
 .color-2 {
   color:green;
+}
+
+.post-link {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.post-link h2 {
+  padding: 20px;
 }

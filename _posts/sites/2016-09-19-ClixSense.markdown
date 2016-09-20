@@ -2,12 +2,16 @@
 layout: moneySite
 title:  "ClixSense"
 date:   2016-09-19
-referral-link: "https://www.usertesting.com"
+referral-link: "http://www.clixsense.com/?980646"
 minimum-redeem: ???
 earn-unit: $USD
 total-earned: $0.081
 from-referal: 0
 total-paid: 0
+rating: 4
+permalink: /:categories/:title.html
+banner-img: clixsense-banner.png
+icon-img: clixsense-icon.gif
 
 categories: site
 ---

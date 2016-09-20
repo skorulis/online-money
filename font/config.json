@@ -95,6 +95,18 @@
       "css": "video",
       "code": 59397,
       "src": "entypo"
+    },
+    {
+      "uid": "9396b2d8849e0213a0f11c5fd7fcc522",
+      "css": "tasks",
+      "code": 61614,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "wrench",
+      "code": 59398,
+      "src": "fontawesome"
     }
   ]
 }

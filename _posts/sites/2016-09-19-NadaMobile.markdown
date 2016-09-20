@@ -9,6 +9,9 @@ conversion: 1000 points = $1
 total-earned: 0
 from-referal: 0
 total-paid: 0
+rating: 1
+permalink: /:categories/:title.html
+icon-img: nada-mobile-icon.jpg
 
 categories: site
 ---

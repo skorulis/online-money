@@ -4,11 +4,18 @@ title:  "Perk TV"
 date:   2016-09-18
 last-update:   2016-09-19
 minimum-redeem: $10
-earn-unit: Perk points (PP) 1500 PP = $1
-total-earned: 315
+referral-link: http://perk.fm/4uunp
+banner-img: perk-banner.jpg
+icon-img: perk-icon.png
+earn-unit: Perk points (PP)
+unit: PP
+conversion: 1500 PP = $1
+total-earned: 606
 from-referal: 0
 total-paid: 0
-rating: 7/10
+rating: 7
+features: videos.2,offer wall.2,shopping.2
+permalink: /:categories/:title.html
 
 categories: site
 ---
@@ -20,8 +27,14 @@ Ways to earn
 
 * 100 points on startup
 * Offerwall
-* Videos: 2-4 PP per video. Leaving videos playing on a device works well but you get no credit for watching in a browser.
-* Shopping rewards
+* Videos: 2-4 PP per video. Leaving videos playing on a mobile device works well but you get no credit for watching in a browser.
+* Shopping. Has a fairly limited range of coupons but a decent range of stores.
+* Sweepstakes can be purchased both with points and with "tokens". Tokens don't seem to have any other value so you can use them here but the rewards are pretty lame compared to the sweepstakes paid for with points.
+
+Referrals
+-----
+
+* Get 500 points when your referral claims their first reward.
 
 
 Overall

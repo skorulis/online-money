@@ -9,7 +9,7 @@ earn-unit: $USD
 total-earned: 0
 from-referal: 0
 total-paid: 0
-rating: 0/10
+rating: 0
 
 categories: site
 ---

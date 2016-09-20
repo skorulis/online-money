@@ -1,7 +1,14 @@
 ---
-layout: post
+layout: moneySite
 title:  "Qmee"
 date:   2016-09-18
+banner-img: qmee-banner.png
+icon-img: qmee-icon.png
+rating: 0
+features: search.2
+permalink: /:categories/:title.html
+referral-link: https://www.qmee.com
+
 
 categories: site
 ---

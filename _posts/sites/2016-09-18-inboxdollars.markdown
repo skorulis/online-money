@@ -3,11 +3,17 @@ layout: moneySite
 title:  "Inboxdollars"
 date:   2016-09-18
 referral-link: "http://www.inboxdollars.com/?r=ref26506314&s=7"
+banner-img: inbox-dollars-banner.png
+icon-img: inbox-dollars-icon.jpg
 minimum-redeem: $30
 earn-unit: $USD
 total-earned: $6.20
 from-referal: 0
 total-paid: 0
+permalink: /:categories/:title.html
+rating: 3
+features: videos.0,surveys.0,search.2
+
 
 categories: site
 ---

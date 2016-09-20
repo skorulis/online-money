@@ -15,5 +15,7 @@ twitter_username: skorulis
 github_username:  skorulis
 google_analytics: UA-23447195-2
 
+empty_array: []
+
 # Build settings
 markdown: kramdown

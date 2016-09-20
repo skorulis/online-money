@@ -2,22 +2,21 @@
 layout: moneySite
 title:  "Earnably"
 date:   2016-09-19
-referral-link: "https://www.usertesting.com"
+referral-link: "http://earnably.com/"
 minimum-redeem: ???
 earn-unit: $USD
 total-earned: 0
 from-referal: 0
 total-paid: 0
+rating: 0
+permalink: /:categories/:title.html
+banner-img: earnably-banner.png
+icon-img: earnably-icon.jpg
 
 categories: site
 ---
 
-UserTesting is a little different. You record a video and screen capture as you navigate a site. When you sign up you have to complete an initial test. Once this is done there's a week long wait to be allowed to start earning.
+I got as far as signing up and then my account was locked for unknown reasons. I've sent them an email about this which hasn't gotten a reply, I replied to their welcome email (which specifically asked for that) but the email couldn't be delivered and I tweeted to them. 
 
-I'm still waiting to get access to the site so I can't give any more information.
+I don't know why I've been banned but it's pretty poor form to send me an email asking if I need help and then not replying to any of my requests for help. I might just sign up with a different email address.
 
-
-Ways to earn
----
-
-* $10 per site tested

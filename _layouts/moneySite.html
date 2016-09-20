@@ -11,47 +11,70 @@ layout: default
     	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     {% endif %}
     </a>
+    {% if page.rating %}
+    	<h2>Overall rating: {{ page.rating }} / 10</h2>
+    {% endif %}
   </header>
   
-  <div class="site-params">
+  <div class="center-block">
+    <h2>Features</h2>
+    <div class="features site-params">
+
+      {% assign features = page.features | split: ',' %}
+      {% for f in features %}
+        {% assign fName = f | split: '.' | first %}
+        {% assign fClass = f | split: '.' | last %}
+
+        <p class="color-{{ fClass }}">
+        {{ fName }}<br/>
+        {% if fName == "search" %}
+          <i class="icon-search"></i>
+        {% elsif fName == "surveys" %}
+          <i class="icon-th-list"></i>
+        {% elsif fName == "videos" %}
+          <i class="icon-video"></i>	
+        {% elsif fName == "games" %}
+          <i class="icon-gamepad"></i>
+        {% elsif fName == "offer wall" %}
+          <i class="icon-th"></i>
+        {% elsif fName == "shopping" %}
+          <i class="icon-basket"></i>	
+        {% elsif fName == "sweeps" %}
+          <i class="icon-ticket"></i>	
+        {% elsif fName == "tasks" %}
+          <i class="icon-wrench"></i>	
+        {% elsif fName == "interest" %}
+          <i class="icon-dollar"></i>	
+        {% endif %}
+        </p>
+      {% endfor %}	
+    </div>
+  </div>
+  
+  <div class="center-block">
+    <h2>Stats</h2>
+    <div class="site-params">
   	<p>Currency unit<br/> {{ page.earn-unit }}</p>
+  	{% if page.conversion %}
+  		<p>Conversion<br/> {{ page.conversion }}</p>
+  	{% endif %}
   	<p>Total earned<br/> {{ page.total-earned }} {{ page.unit }}</p>
   	<p>Total paid<br/> ${{ page.total-paid }} AUD</p>
   	<p>Minimum redeem<br/> {{ page.minimum-redeem }} </p>
   </div>
+  </div>
   
-	<div class="features site-params">
-		{% assign features = page.features | split: ',' %}
-		{% for f in features %}
-			{% assign fName = f | split: '.' | first %}
-			{% assign fClass = f | split: '.' | last %}
-			
-			<p class="color-{{ fClass }}">
-			{{ fName }}<br/>
-			{% if fName == "search" %}
-				<i class="icon-search"></i>
-			{% elsif fName == "surveys" %}
-				<i class="icon-th-list"></i>
-			{% elsif fName == "videos" %}
-				<i class="icon-video"></i>	
-			{% elsif fName == "games" %}
-				<i class="icon-gamepad"></i>
-			{% elsif fName == "offer wall" %}
-				<i class="icon-th"></i>
-			{% elsif fName == "shopping" %}
-				<i class="icon-basket"></i>	
-			{% elsif fName == "sweeps" %}
-				<i class="icon-ticket"></i>	
-			{% endif %}
-			</p>
-		{% endfor %}	
-	</div>
+	
   
   
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
   
+  <a href="{{ post.referral-link }}"><h2>Sign up now!</h2></a>
+  
   <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 
+  {% include comments.html %}
+  
 </article>

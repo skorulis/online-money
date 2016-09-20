@@ -8,25 +8,25 @@ earn-unit: £UK
 total-earned: £1.62
 from-referal: 0
 total-paid: 0
+permalink: /:categories/:title.html
+rating: 3
+features: videos.0,surveys.0,search.2
+banner-img: inbox-pounds-banner.png
+icon-img: inbox-pounds-icon.png
 
 categories: site
 ---
 
-Styled the same as inboxDollars but has some different features.
+Styled the same as inboxDollars but has some slightly different features.
 
 
 Ways to earn
 ---
 
 * Get £1 during sign up
-* Search: Get £0.15 a day for performing searches
+* Search: Get £0.15 a day for performing searches. Get an extra £0.05 for searching 4 days in a row
 * Other methods are unavailable to me in Australia
 
-
-Daily rewards
-----
-
-* Various daily tasks which give sweep entries
 
 Referral bonus
 --------
@@ -37,7 +37,7 @@ Referral bonus
 Overall
 -------
 
-* The initial sign up bonus is pretty good.
+* The daily search is a decent amount but you have to do at least 60 searches to get it
 
 
 

@@ -8,6 +8,10 @@ earn-unit: point 1 point = $0.01
 total-earned: 12 points
 from-referal: 0
 total-paid: 0
+permalink: /:categories/:title.html
+banner-img: insta-gc-banner.png
+icon-img: insta-gc-icon.png
+rating: 2
 
 categories: site
 ---
