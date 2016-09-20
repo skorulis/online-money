@@ -13,6 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: skorulis
 github_username:  skorulis
+google_analytics: UA-23447195-2
 
 # Build settings
 markdown: kramdown
