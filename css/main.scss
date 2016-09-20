@@ -49,5 +49,39 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "money-codes"
 ;
+
+.site-params {
+  display:flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+@font-face {
+      font-family: 'money';
+      src: url('/font/money.eot?97236588');
+      src: url('/font/money.eot?97236588#iefix') format('embedded-opentype'),
+           url('/font/money.woff?97236588') format('woff'),
+           url('/font/money.ttf?97236588') format('truetype'),
+           url('/font/money.svg?97236588#money') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+i {
+    font-family: "money";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+}
+
+.site-icon {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.site-params p {
+  padding:10px;
+}

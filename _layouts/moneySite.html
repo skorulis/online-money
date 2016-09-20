@@ -4,17 +4,45 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <a href="{{ page.referral-link}}">
+    {% if page.banner-img %}
+    	<img src="/assets/site-logos/{{ page.banner-img }}" alt="{{ page.title }}" />
+    {% else %}
+    	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    {% endif %}
+    </a>
   </header>
   
-  <p>Currency unit: {{ page.earn-unit }}</p>
-  <p>Total earned: {{ page.total-earned }} {{ page.unit }}</p>
-  <p>Total paid: ${{ page.total-paid }} AUD</p>
-  <p>Minimum redeem {{ page.minimum-redeem }} </p>
+  <div class="site-params">
+  	<p>Currency unit<br/> {{ page.earn-unit }}</p>
+  	<p>Total earned<br/> {{ page.total-earned }} {{ page.unit }}</p>
+  	<p>Total paid<br/> ${{ page.total-paid }} AUD</p>
+  	<p>Minimum redeem<br/> {{ page.minimum-redeem }} </p>
+  </div>
+  
+	<div class="features site-params">
+		{% assign features = page.features | split: ',' %}
+		{% for f in features %}
+			<p>
+			{{ f }}<br/>
+			{% if f == "search" %}
+				<i class="icon-search"></i>
+			{% elsif f == "surveys" %}
+				<i class="icon-th"></i>
+			{% elsif f == "videos" %}
+				<i class="icon-video"></i>	
+			{% elsif f == "games" %}
+				<i class="icon-gamepad"></i>	
+			{% endif %}
+			</p>
+		{% endfor %}	
+	</div>
+  
   
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 
 </article>

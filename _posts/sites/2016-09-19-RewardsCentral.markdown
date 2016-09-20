@@ -2,6 +2,7 @@
 layout: moneySite
 title:  "Rewards Central"
 date:   2016-09-19
+last-update: 2016-09-19
 referral-link: "https://www.usertesting.com"
 minimum-redeem: ???
 earn-unit: Points

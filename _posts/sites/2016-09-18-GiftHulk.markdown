@@ -3,11 +3,15 @@ layout: moneySite
 title:  "GiftHulk"
 date:   2016-09-18
 referral-link: "http://www.gifthulk.com/invite/SK1388864"
+banner-img: gift-hulk-banner.png
+icon-img: gift-hulk-icon.png
 minimum-redeem: $5
-earn-unit: Hulk coins (HC) 1000 HC = $1
+earn-unit: Hulk coins (HC)
+conversion: 1000 HC = $1
 total-earned: 383 HC
 from-referal: 0
 total-paid: 0
+features: search,surveys,videos,games
 
 categories: site
 ---

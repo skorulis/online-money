@@ -5,7 +5,7 @@ date:   2016-09-19
 referral-link: "https://www.usertesting.com"
 minimum-redeem: ???
 earn-unit: $USD
-total-earned: $0.017
+total-earned: $0.081
 from-referal: 0
 total-paid: 0
 
@@ -23,3 +23,9 @@ Ways to earn
 * Offerwall
 * Surveys. There's no reward for surveys that you do not qualify for which can waste a lot of time just getting through the initial questions
 * Clixgrid -> Like PTC ads but you don't know what ad you're going to get and only gives you a chance to win. In 35 attempts I am yet to win anything
+
+
+Overall
+------
+
+The PTC are nice but there aren't enough to make decent earnings.

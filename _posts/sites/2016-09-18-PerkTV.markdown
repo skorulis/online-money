@@ -2,30 +2,34 @@
 layout: moneySite
 title:  "Perk TV"
 date:   2016-09-18
-minimum-redeem: ???
+last-update:   2016-09-19
+minimum-redeem: $10
 earn-unit: Perk points (PP) 1500 PP = $1
-total-earned: 108
+total-earned: 315
 from-referal: 0
 total-paid: 0
-rating: 6/10
+rating: 7/10
 
 categories: site
 ---
 
 * Has a huge family of apps. No idea why it needs so many and the constant changing between them gets really confusing.
 
-
 Ways to earn
 ---
 
 * 100 points on startup
-* Videos: 2-4 PP per video. Leaving videos playing on a device works well but you get no credit for watching in a browser
+* Offerwall
+* Videos: 2-4 PP per video. Leaving videos playing on a device works well but you get no credit for watching in a browser.
+* Shopping rewards
 
 
 Overall
 -------
 
-* Installing the app on a device and letting it run all day will generate a modest income.
+* PerkTV offers one of the best passive video watching experiences. Some sites say that you can run up to 5 devices at once but there's no mention on perkTV about this and some users have had their account locked when they try to redeem. 
+
+If you have an old device you can install the app on you can leave it running all day. In Australia the payment is 50% of what people get in the US but it can still generate $0.20 a day. 
 
 
 

@@ -2,14 +2,19 @@
 layout: moneySite
 title:  "Swagbucks"
 date:   2016-09-18
+last-update: 2016-09-20
 referral-link: "http://www.swagbucks.com/p/register?rb=21823318"
 minimum-redeem: $5
 earn-unit: Swagbucks(SB) 100SB = $1
 unit: SB
-total-earned: 150
+total-earned: 810
 from-referal: 0
 total-paid: 0
-rating: 9/10
+rating: 9
+permalink: /:categories/:title.html
+banner-img: swagbucks-banner.png
+icon-img: swagbucks-icon.png
+features: search,surveys,videos,games,offer wall,shopping
 
 categories: site
 ---
