@@ -1,0 +1,43 @@
+---
+layout: moneySite
+title:  "Neobux"
+date:   2016-09-20
+referral-link: "https://www.neobux.com/"
+banner-img: neobux-banner.png
+icon-img: neobux-icon.gif
+minimum-redeem: ???
+earn-unit: $USD
+total-earned: $0.004
+from-referal: 0
+total-paid: 0
+features: pay to click.2,tasks.2
+permalink: /:categories/:title.html
+rating: 3
+
+categories: site
+---
+
+* Neobux focuses around pay to click ads. 
+
+
+Ways to earn
+---
+
+* Clicking on an ad pays $0.001
+* Tasks via crowdflower
+* After clicking on ads you gain a number of "AdPrize" entries. Basically they let you view an ad with a chance to win a prize. I'm yet to win anything in this regard
+
+
+Related sites
+------
+
+* Similar in layout and operation to [Clixsense](/site/Clixsense.html)
+
+
+Overall
+-------
+
+* This could be ok if the PTC rates weren't so low or if there were more. As it is now there's only the opportunity to make about $0.02 a day.
+
+
+

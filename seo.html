@@ -4,17 +4,17 @@ layout: default
 
 <div class="home">
 
-	<p>These sites let you sign up and start earning money doing all sorts of things. I've ranked them in order of how effective I found them. Keep in mind this is from the point of view of an Australian trying to earn money using mostly passive methods. If you're in a different situation then your results may vary.</p>
+	<p>These sites let you sign up and start earning money doing all sorts of things. </p>
 
   <ul class="post-list">
   	{% assign sortedPosts = "" | split:"|" %}
   	{% for post in site.posts %}
-  		{% if post.categories[0] == "site" %}
+  		{% if post.categories[0] == "seo" %}
   			{% assign sortedPosts = sortedPosts | push: post %}
   		{% endif %}
   	{% endfor %}
   
-  	{% assign sortedPosts = sortedPosts | sort: 'rating' | reverse %}
+  	{% assign sortedPosts = sortedPosts | sort: 'title' | reverse %}
 
     {% for post in sortedPosts %}
     	

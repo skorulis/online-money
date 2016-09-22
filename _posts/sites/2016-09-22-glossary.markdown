@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Glossary"
+date:   2016-09-22
+icon-img: glossary-icon.png
+permalink: /:categories/:title.html
+rating: -1
+
+categories: site
+---
+<style>
+	li {
+		padding:14px;
+		list-style:none;
+	}
+	
+	i {
+		padding-right:10px;
+	}
+</style>
+
+<li id="search"><i class="icon-search"></i>Search - Sites with this function pay you to use their search. They'll usually want you to default to their search engine but this isn't a requirement. The big problem is that the search is inferior to google so you're not always going to get the results you want. The payout is usually pretty low but consistent. </li>
+
+<li id="surveys"><i class="icon-th-list"></i> Surveys - Many sites offer the ability to complete paid surveys. Surveys have the highest earning potential but they don't make it easy to get. Most surveys start with questions to see if you qualify. The problem is that these initial questions can easily take up 5 minutes and then leave you with nothing. This happens to me too often so I tend to leave surveys alone.</li>
+
+<li id="videos"><i class="icon-video"></i> Videos - Here you get paid to simply watch videos. This is probably the least effort in terms of earning and it's a stable source. How much you can make depends on how well you can keep the videos playing. They usually require a little bit of interaction every now and again. Having a fast connection can help here too. </li>
+
+<li id="shopping"><i class="icon-basket"></i> Shopping - Most sites will offer you shopping rewards. In this case you're rewarded for spending your money instead of your time. I've only bought a few things and have always received my reward but I'm wary of purchases simply to get the reward which may end up not paying out. </li>
+
+<li id="games"><i class="icon-gamepad"></i> Games - If you like playing mindless games then this might be for you. You get paid based on how long you play or how well you score. If you were already going to be playing these types of games then you might as well get paid, otherwise it's a timesink that is unlikely to pay off </li>
+
+<li id="sweeps"><i class="icon-ticket"></i>Sweeps/Competitions - This covers all sorts of competitions. Some require spending points to play while others let you play every day. From my experience these almost never pay anything. The odds are usually unknown so you don't know when you're going to get something in return. Only play if it's not costing you anything. </li>
+
+<li id="tasks"><i class="icon-wrench"></i>Tasks - Tasks require you to do something. This could be anything and the pay also varies a lot. I haven't found many sites where this felt like a good deal so haven't experimented in this section much </li>
+
+<li id="interest"><i class="icon-dollar"></i>Interest - The only site that I've seen this on is rewards central. They'll pay you interest on your points that are sitting in their account. It's a good deal since there's not much else you can do until you're ready to cash out</li>
+
+<li id="monitoring"><i class="icon-desktop"></i>Monitoring - These sites install various monitoring on your devices. It's unclear exactly what they're tracking so if you're worried about privacy then stay away. But what they're giving you is a way to make money for basically no effort </li>
+
+<li id="ptc"><i class="icon-cursor"></i>Pay to click - Here you get paid to click an ad. The payout is usually pretty small but so is the effort. It seems these are on the way out as not many advertisers want to pay for clicks as they're unlikely to convert. You can see this in the quality of the ads that are shown </li>

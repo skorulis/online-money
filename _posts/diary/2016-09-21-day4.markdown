@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 4"
+date:   2016-09-21 
+categories: diary
+---
+
+So far my earnings are lower than anticipated. The total amount in all of my accounts is about $20. For most sites the effort required to get a few cents just isn't worth it. There's a few that are giving me some passive income for letting videos run but the income is spread between them. I'm not giving up but I am running out of ways to continue pushing forwards.
+
+But this blog isn't just about a bunch of shady websites which offer free money, it's about all the different possibilities of making money online. It's supposed to be more than my personal diary but a guide to help other people struggling to do the same. But right now my website traffic is more than a little slow:
+
+![Sad traffic]({{ site.baseurl }}/assets/diary/traffic1.png)
+
+Since most other ways of earning money will require connecting with other people I must be able to drive some traffic to this site first. To help with that I'm starting up an [SEO (Search Engine Optimisation)](/seo.html) section of the blog. It's actually going to cover more than just SEO but I'll come up with a better name later.
+
+
+Daily earnings: $0.84

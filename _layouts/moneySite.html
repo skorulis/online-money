@@ -25,7 +25,7 @@ layout: default
         {% assign fName = f | split: '.' | first %}
         {% assign fClass = f | split: '.' | last %}
 
-        <p class="color-{{ fClass }}">
+        <a href="/site/glossary#{{ fName }}"><p class="color-{{ fClass }}">
         {{ fName }}<br/>
         {% if fName == "search" %}
           <i class="icon-search"></i>
@@ -45,8 +45,12 @@ layout: default
           <i class="icon-wrench"></i>	
         {% elsif fName == "interest" %}
           <i class="icon-dollar"></i>	
+        {% elsif fName == "monitoring" %}
+          <i class="icon-desktop"></i>
+        {% elsif fName == "pay to click" %}
+          <i class="icon-cursor"></i>
         {% endif %}
-        </p>
+      </p></a>
       {% endfor %}	
     </div>
   </div>
@@ -71,7 +75,7 @@ layout: default
     {{ content }}
   </div>
   
-  <a href="{{ post.referral-link }}"><h2>Sign up now!</h2></a>
+  <a href="{{ post.referral-link }}"><h2 style="text-align:center">Sign up now!</h2></a>
   
   <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 

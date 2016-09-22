@@ -1,0 +1,21 @@
+Need to see if I can change focus of browser windows
+Have an icon for each thing that a site has. green is good, red is bad.
+
+http://design-interviews.blogspot.com.au/2014/11/switching-between-tabs-in-same-browser-window.html
+
+My ruby scripts are a bit of a mess. Would be better if the site could each point to a ruby file which has the functions I need which can be made specific to a site
+
+Need my glossary for the sites
+
+
+SEO:
+
+
+What is SEO/What is this guide?
+How to measure various values?
+Keywords
+Search engines
+
+???
+
+Perhaps use the term "online marketing" instead

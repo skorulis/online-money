@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 5"
+date:   2016-09-22 
+categories: diary
+---
+
+I've written a [ruby](https://www.ruby-lang.org/en/) script to estimate my earnings based off the amount of points I have for each service. 

@@ -7,12 +7,12 @@ banner-img: inbox-dollars-banner.png
 icon-img: inbox-dollars-icon.jpg
 minimum-redeem: $30
 earn-unit: $USD
-total-earned: $6.20
+total-earned: $6.22
 from-referal: 0
 total-paid: 0
 permalink: /:categories/:title.html
 rating: 3
-features: videos.0,surveys.0,search.2
+features: videos.0,surveys.0,search.2,games.1
 
 
 categories: site
@@ -25,7 +25,7 @@ Ways to earn
 ---
 
 * Get $6 during sign up
-* Search: Get $0.15 a day for performing searches
+* Search: Get $0.15 a day for performing searches. This worked well for a few days but not I almost never get anything except sweeps tickets for searching
 * Other methods are unavailable to me in Australia
 
 

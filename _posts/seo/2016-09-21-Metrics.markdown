@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "1. Metrics"
+date:   2016-09-21 
+categories: seo
+permalink: /:categories/:title.html
+---
+
+![Metrics]({{ site.baseurl }}/assets/seo/metrics.jpg)
+
+What are metrics?
+-----
+
+Before you get started trying to drive traffic to you site you need to understand your metrics. Metrics are ways of measuring how well you're doing. 
+
+[EDIT] These metrics are going to focus more on raw traffic. This may not lead to actual conversions.
+
+
+1. Traffic
+-----
+
+The first and simplest metric to start with is traffic. How many people are visiting your website. Of course you can and should look into your traffic past just how many people are visiting but it's a start. To get this metric you're going to need an external service. [Google Analytics](http://analytics.google.com) allows you to easily track every user who visits your site. It's very commonly used so no matter how you've setup your website it's likely you can find a guide on how to quickly integrate it.
+
+
+2. Domain Authority (DA) and Page Authority (PA)
+---
+
+Domain authority and page authority are estimates of how well your domain and page respectively will rank on search engines. These 2 values were developed by [Moz](https://moz.com/)
+
+https://moz.com/researchtools/ose/
+http://www.seoreviewtools.com/website-authority-checker/
+
