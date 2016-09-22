@@ -9,6 +9,8 @@ This blog details my trials and tribulations and hopefully successes while tryin
 About me
 -----
 
-I'm a [beer drinking](http://skorulis.com/beer/), [beer brewing](http://homebrew.skorulis.com) computer programmer.
+Hi, my name is Alex Skorulis. I'm a [beer drinking](http://skorulis.com/beer/), [beer brewing](http://homebrew.skorulis.com) computer programmer living in Sydney, Australia.
 
 ![Me]({{ site.baseurl }}/assets/about/me.jpg)
+
+<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>

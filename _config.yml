@@ -6,13 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Money making
+title: Easy Money
 email: skorulis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blog details my experiments with ways to make money online
+  Details of my experiments with ways to make money online.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: skorulis
-github_username:  skorulis
 google_analytics: UA-23447195-2
 
 empty_array: []
