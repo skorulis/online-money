@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Day 9"
+date:   2016-09-22 
+categories: diary
+---
+
+You may notice a gap in the days here. It's not that I wasn't working but my [laptop died](http://blog.skorulis.com/2016/09/25/today-my-laptop-died.html) and I lost some of the posts. I'm usually pretty good about backing everything up but in this case I had a few posts which weren't quite ready for publishing that were holding me back. Nothing to be done about but move forwards though.
+

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "1. Metrics"
-date:   2016-09-21 
+title:  "Metrics"
+date:   2016-09-26
 categories: seo
 permalink: /:categories/:title.html
 ---
@@ -16,41 +16,57 @@ Before you get started trying to drive traffic to you site you need to understan
 [EDIT] These metrics are going to focus more on raw traffic. This may not lead to actual conversions.
 
 
-1 Traffic
------
+Raw metrics
+-------
+
+
+Traffic
+====
 
 The first and simplest metric to start with is traffic. How many people are visiting your website. Of course you can and should look into your traffic past just how many people are visiting but it's a start. To get this metric you're going to need an external service. [Google Analytics](http://analytics.google.com) allows you to easily track every user who visits your site. It's very commonly used so no matter how you've setup your website it's likely you can find a guide on how to quickly integrate it.
 
+Backlinks
+====
 
-2 Domain Authority (DA) and Page Authority (PA)
+The backlinks metric is simply the measure of how many links point to your site. It's a simple measure which doesn't take into account the quality of the links. Be very wary of people offering you x backlinks for cheap prices, these are likely to make your site seem like spam but have little other effect. When it comes to backlinks quality is more important than quantity.
+
+An important factor in backlinks is the <b>nofollow</b> tag. When a link is marked as <b>nofollow</b> it instructs search engines not to follow along the link. Exactly what this means depends on how the search is implemented but treat nofollow links as less valuable.
+
+
+Search engine ranking
+====
+
+This is where your site is positioned for various searches. You obviously want to be as close to the #1 spot as possible. 
+
+
+Moz(https://moz.com/)
 ---
+
+
+[Domain Authority (DA)](https://moz.com/learn/seo/domain-authority) and [Page Authority (PA)](https://moz.com/learn/seo/page-authority)
+===
 
 Domain authority and page authority are estimates of how well your domain and page respectively will rank on search engines. These 2 values were developed by [Moz](https://moz.com/). It combines other values like MozRank and MozTrust which I'll cover shortly. You can use the [official tool](https://moz.com/researchtools/ose/) but it only gives a few scans per day. You can also get the score by going to [seo review tools](http://www.seoreviewtools.com/website-authority-checker/)
 
 
-3 MozRank
-----
+[MozRank](https://moz.com/learn/seo/mozrank)
+===
 
 [MozRank](https://moz.com/learn/seo/mozrank) represents a <b>link popularity score</b>. It reflects the importance of any given web page on the Internet. Pages earn MozRank by the number and quality of other pages that link to them. The higher the quality of the incoming links, the higher the MozRank. You can use [CheckMoz](http://www.checkmoz.com/) to get your MozRank.
 
 
-4 MozTrust
--------
+[MozTrust](https://moz.com/learn/seo/moztrust)
+===
 
 [MozTrust](https://moz.com/learn/seo/moztrust) is Moz's global link trust score. It is similar to <b>MozRank</b>, but rather than measuring link popularity, it measures link trust. Receiving links from sources with inherent trust—such as the homepages of major university websites or certain government web pages—is a strong trust endorsement. You can use [Bulk web tools](http://www.bulkwebtools.com/moztrust-checker) to get your MozTrust score.
 
+[Majestic](https://majestic.com).
+---
 
-5 Backlinks
--------
+Citation Flow and Trust Flow
+===
 
-The backlinks metric is simply the measure of how many links point to your site. It's a simple measure but unlike the previous 3 it doesn't take into account the quality of the links. Be very wary of people offering you x backlinks for cheap prices, these are likely to reduce your <b>MozTrust</b> but have little other effect. When it comes to backlinks quality is more important than quantity.
-
-An important factor in backlinks is the <b>nofollow</b> tag. When a link is marked as <b>nofollow</b> it instructs search engines not to crawl along the link. These links will not count as backlinks. Unfortunately most links from social sites where you can easily post will be nofollow so these are not good sources for building up your SEO metrics.
-
-6 Trust Flow and Citation Flow
--------
-
-These are 2 metrics from [Majestic](https://majestic.com).
+These are 2 metrics are similar to the MozRank and MozTrust metrics. One of the big things to pay attention to here is the ratio between them. If you have a high citation flow but low trust flow you could have a lot of spammy backlinks. They're not as widely used in the industry but can help with some additional insight you might not be getting from Moz. In addition they update much more frequently than Moz so are good when you're starting out.
 
 
 Metrics to ignore
