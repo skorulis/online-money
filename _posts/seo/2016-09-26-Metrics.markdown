@@ -11,9 +11,7 @@ permalink: /:categories/:title.html
 What are metrics?
 -----
 
-Before you get started trying to drive traffic to you site you need to understand your metrics. Metrics are ways of measuring how well you're doing. 
-
-[EDIT] These metrics are going to focus more on raw traffic. This may not lead to actual conversions.
+Before you get started trying to drive traffic to you site you need to understand your metrics. Metrics are ways of measuring how well you're doing. The metrics I'm choosing are more focused on raw traffic opposed to the very important aspect of getting conversions for the users on your site. Expect this list to evolve as new metrics become available or as I find new ways to use them.
 
 
 Raw metrics
@@ -39,7 +37,7 @@ Search engine ranking
 This is where your site is positioned for various searches. You obviously want to be as close to the #1 spot as possible. 
 
 
-Moz(https://moz.com/)
+[Moz](https://moz.com/)
 ---
 
 

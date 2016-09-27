@@ -12,7 +12,7 @@ from-referal: 0
 total-paid: 0
 features: tasks.2
 permalink: /:categories/:title.html
-rating: 5
+rating: 10
 
 categories: site
 ---

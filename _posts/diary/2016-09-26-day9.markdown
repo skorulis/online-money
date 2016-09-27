@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "Day 9"
-date:   2016-09-22 
+date:   2016-09-26
 categories: diary
 ---
 
 You may notice a gap in the days here. It's not that I wasn't working but my [laptop died](http://blog.skorulis.com/2016/09/25/today-my-laptop-died.html) and I lost some of the posts. I'm usually pretty good about backing everything up but in this case I had a few posts which weren't quite ready for publishing that were holding me back. Nothing to be done about but move forwards though.
 
+I finally got access to [Earnably](site/earnably.html) which so far has been a let down. I also signed up to [YouGov](/site/you-gov.html) which seems like a good place to do surveys.
+
+One of the things I learnt from [Moz](https://moz.com){:rel="nofollow"} is that the Spam score of [skorulis.com](http://skorulis.com) is at 6 which is means I may be penalised. One of those flags is "thin content". Now most of my pages only have a few images on them so I can see how this is fair. To fix this I planned to just add some more information to the site but found that google wasn't doing well at picking up anything but the main page, probably because the whole thing was a single page app I decided to replace all of that with a static generated site. With that done I need to wait until the 29th to see how Moz views the changes.

@@ -2,16 +2,18 @@
 layout: moneySite
 title:  "Earnably"
 date:   2016-09-19
-referral-link: "http://earnably.com/"
+referral-link: "http://earnably.com/r/skorulis"
 minimum-redeem: ???
-earn-unit: $USD
-total-earned: 0
+earn-unit: points
+conversion: 100 points = $1
+total-earned: 4.85
 from-referal: 0
 total-paid: 0
-rating: 0
+rating: 2
 permalink: /:categories/:title.html
 banner-img: earnably-banner.png
 icon-img: earnably-icon.jpg
+features: offer wall.2,videos.0,radio.2,tasks.2
 
 categories: site
 ---
@@ -21,3 +23,23 @@ I got as far as signing up and then my account was locked for unknown reasons. I
 I don't know why I've been banned but it's pretty poor form to send me an email asking if I need help and then not replying to any of my requests for help. I might just sign up with a different email address.
 
 After 3 days and 3 attempts to contact them I've finally gotten a response. They told me my account was unlocked but actually it still is. Not sure why this is so difficult for them
+
+
+Ways to earn
+------
+
+* <b>Radio:</b> 0.5 points every 10 minutes after solving a captcha. The points take a while to come through after solving the captcha. Listening to this all day and solving every captcha would only make $0.72. Half the time when I open the tab and go to enter the captcha the window reloads and I miss out.
+* <b>Videos:</b> These are via third party providers paying up to 1 point per video. I couldn't find any that would play
+* <b>Tasks:</b> Tasks via crowdflower
+
+
+
+Referrals
+-----
+
+10% from first tier and 5% from second tier.
+
+Overall
+------
+
+Earnably has very little of their own deals available. They just link in with a lot of other providers but seem to pay less. I'm finding it hard to justify spending much time on their site, especially after how long it took me to get signed up.

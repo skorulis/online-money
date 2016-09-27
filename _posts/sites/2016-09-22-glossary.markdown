@@ -25,6 +25,8 @@ categories: site
 
 <li id="videos"><i class="icon-video"></i> Videos - Here you get paid to simply watch videos. This is probably the least effort in terms of earning and it's a stable source. How much you can make depends on how well you can keep the videos playing. They usually require a little bit of interaction every now and again. Having a fast connection can help here too. </li>
 
+<li id="radio"><i class="icon-mic"></i> Radio - Like video except with just the sound</li>
+
 <li id="shopping"><i class="icon-basket"></i> Shopping - Most sites will offer you shopping rewards. In this case you're rewarded for spending your money instead of your time. I've only bought a few things and have always received my reward but I'm wary of purchases simply to get the reward which may end up not paying out. </li>
 
 <li id="games"><i class="icon-gamepad"></i> Games - If you like playing mindless games then this might be for you. You get paid based on how long you play or how well you score. If you were already going to be playing these types of games then you might as well get paid, otherwise it's a timesink that is unlikely to pay off </li>

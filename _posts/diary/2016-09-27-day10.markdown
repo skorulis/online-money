@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 10"
+date:   2016-09-27
+categories: diary
+---
+
+Still recovering from my hard disk loss which is eating up time getting everything running back how I expect it to. During my research into spam score I found [Google webmaster tools](https://www.google.com/webmasters/). I'm getting all of my sites setup now as the results don't start recording until you do. It seems like there's a fair bit of insight to be had there.

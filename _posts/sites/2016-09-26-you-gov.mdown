@@ -1,0 +1,38 @@
+---
+layout: moneySite
+title:  "YouGov"
+date:   2016-09-26
+referral-link: "https://au.yougov.com/"
+minimum-redeem: $25
+earn-unit: points
+conversion: 200 points = $1
+total-earned: 280
+from-referal: 0
+total-paid: 0
+rating: 6
+permalink: /:categories/:title.html
+banner-img: yougov-banner.png
+icon-img: yougov-icon.png
+features: surveys.2
+
+categories: site
+---
+
+
+Ways to earn
+------
+
+* <b>Sign up:</b> 100 points for filling out details
+* <b>Surveys:</b> The surveys on this site so far have always i
+
+
+
+Referrals
+-----
+
+10% from first tier and 5% from second tier.
+
+Overall
+------
+
+It's refreshing to find a site which actually sends targeted surveys instead of simply disqualifying you after a bunch of generic questions. The surveys also stay on the YouGov site instead of redirecting you around and pay decently. So far my only problem is that there haven't been many available surveys yet.
