@@ -119,10 +119,6 @@ i {
   align-items: center;
 }
 
-.post-link h2 {
-  padding: 20px;
-}
-
 .cta-signup {
   border: 1px solid #888;
   padding:10px;
@@ -130,4 +126,18 @@ i {
   display:flex;
   flex-direction:column;
   align-items:center;
+}
+
+.link-details {
+  padding:0 20px;
+}
+
+.link-details * {
+  padding:0;
+  margin:0;
+}
+
+.sub-details {
+  color:#888;
+  font-size:80%;
 }
