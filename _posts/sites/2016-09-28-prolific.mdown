@@ -1,0 +1,30 @@
+---
+layout: moneySite
+title:  "Prolific"
+date:   2016-09-28
+referral-link: "https://www.prolific.ac"
+banner-img: prolific-banner.png
+icon-img: prolific-icon.jpg
+minimum-redeem: £5
+earn-unit: £GBP
+total-earned: £0.00
+from-referal: 0
+total-paid: 0
+features: surveys.2
+permalink: /:categories/:title.html
+rating: 5
+
+categories: site
+---
+
+
+Way to earn
+------
+
+* <b>Surveys:</b> I haven't qualified for any yet but it seems like they pay well and are targeted.
+
+
+Overall
+------
+
+It looks like a nice site but until I can complete a survey I can't say more. The fact that it does prescreening internally rather than for each individual survey is very nice. Will have to wait and see how well this pans out.

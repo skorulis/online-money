@@ -11,6 +11,7 @@ from-referal: 0
 total-paid: 0
 rating: 1
 permalink: /:categories/:title.html
+features: videos.1
 icon-img: nada-mobile-icon.jpg
 
 categories: site
