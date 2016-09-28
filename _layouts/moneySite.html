@@ -88,18 +88,9 @@ layout: default
 </article>
 
 <script src="/js/rating.min.js"></script>
+{% include firebase.html %}
 <script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
 <script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyDos97N0IUAEy-_GohIQx10zB5845cpdrU",
-    authDomain: "money-41ac2.firebaseapp.com",
-    databaseURL: "https://money-41ac2.firebaseio.com",
-    storageBucket: "money-41ac2.appspot.com",
-    messagingSenderId: "296783549638"
-  };
-  firebase.initializeApp(config);
-
   function changedRating(rating) {
       if (firebase.auth().currentUser) {
         saveRating(rating);
@@ -133,7 +124,6 @@ layout: default
   }
 
   function readRating() {
-    console.log("Read rating " + ratingKey());
     firebase.database().ref(ratingKey()).once('value').then(function(snapshot) {
           if(snapshot.val() != null) {
             myRating.setRating(snapshot.val(),false);

@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<h2>Admin functions</h2>
+
+<a onclick="calculateAggregates()">Calculate Aggregates</a>
+
+
+<script src="/js/rating.min.js"></script>
+{% include firebase.html %}
+<script type="text/javascript">
+
+  function calculateAggregates() {
+      console.log(firebase.auth().currentUser.uid);
+      firebase.database().ref("ratings").once('value').then(function(snapshot) {
+          ratings = snapshot.val()
+          var results = {};
+          for (var key in ratings) {
+            var r = ratings[key];
+            var count = 0;
+            var total = 0;
+            for (var uid in r) {
+              total += r[uid]; count++;
+            }
+            results[key] = total/count;
+            console.log(r);
+          }
+          console.log(results);
+          firebase.database().ref("aggRating").set(results);
+      });
+  }
+
+
+
+</script>
