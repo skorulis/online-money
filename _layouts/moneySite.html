@@ -13,6 +13,10 @@ layout: default
     </a>
     {% if page.rating %}
     	<h2>Overall rating: {{ page.rating }} / 10</h2>
+      <div style="display:flex">
+        <p>Rate this site: </p>
+        <ul class="c-rating" id="rating" style="width:120px;padding-left: 30px"></ul>
+      </div>
     {% endif %}
   </header>
   
@@ -71,16 +75,86 @@ layout: default
   </div>
   
 	
-  
-  
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
   
-  <a href="{{ post.referral-link }}"><h2 style="text-align:center">Sign up now!</h2></a>
-  
+  <a href="{{ post.referral-link }}"><h1 style="text-align: center;">Sign up now!</h1></a>
+
   <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 
   {% include comments.html %}
   
 </article>
+
+<script src="/js/rating.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDos97N0IUAEy-_GohIQx10zB5845cpdrU",
+    authDomain: "money-41ac2.firebaseapp.com",
+    databaseURL: "https://money-41ac2.firebaseio.com",
+    storageBucket: "money-41ac2.appspot.com",
+    messagingSenderId: "296783549638"
+  };
+  firebase.initializeApp(config);
+
+  function changedRating(rating) {
+      if (firebase.auth().currentUser) {
+        saveRating(rating);
+      } else {
+        firebase.auth().signInAnonymously().catch(function(error) {
+          // Handle Errors here.
+          var errorCode = error.code;
+          var errorMessage = error.message;
+          // [START_EXCLUDE]
+          if (errorCode === 'auth/operation-not-allowed') {
+            alert('You must enable Anonymous auth in the Firebase Console.');
+          } else {
+            console.error(error);
+          }
+          saveRating(rating);
+        });
+      }
+  }
+
+  function ratingKey() {
+    var userId = firebase.auth().currentUser.uid;
+    var site = "{{page.title}}";
+    return 'ratings/' + site + "/" + userId;
+  }
+
+  function saveRating(rating) {
+    firebase.database().ref(ratingKey()).set(rating);
+  }
+
+  function readRating() {
+    console.log("Read rating " + ratingKey());
+    firebase.database().ref(ratingKey()).once('value').then(function(snapshot) {
+          if(snapshot.val() != null) {
+            myRating.setRating(snapshot.val(),false);
+          }
+          console.log(snapshot.val());
+    });
+  }
+
+  var el = document.querySelector('#rating');
+
+  // current rating, or initial rating
+  var currentRating = 0;
+
+  // max rating, i.e. number of stars you want
+  var maxRating= 5;
+
+  // rating instance
+  var myRating = rating(el, currentRating, maxRating, changedRating);
+
+  firebase.auth().onAuthStateChanged(function(user) {
+    if (user) {
+      readRating();
+    }
+  });
+
+
+</script>

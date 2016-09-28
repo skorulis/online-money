@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Tools"
+date:   2016-09-28
+categories: seo
+permalink: /:categories/:title.html
+---
+
+This is simply a list of tools that I've found to be helpful in understanding what traffic is coming to my site.
+
+
+* [Google Search Console](https://www.google.com/webmasters/tools) - Gives you more in depth information about how google sees your site. Still waiting on it to start recording some historical information

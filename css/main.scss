@@ -50,7 +50,8 @@ $on-laptop:        800px;
         "base",
         "layout",
         "syntax-highlighting",
-        "money-codes"
+        "money-codes",
+        "rating.min"
 ;
 
 @font-face {
@@ -120,4 +121,13 @@ i {
 
 .post-link h2 {
   padding: 20px;
+}
+
+.cta-signup {
+  border: 1px solid #888;
+  padding:10px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
 }
