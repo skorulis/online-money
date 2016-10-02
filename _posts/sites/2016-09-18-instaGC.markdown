@@ -22,9 +22,9 @@ categories: site
 Ways to earn
 ---
 
-* 10 points for signing up
-* Search: Search randomly gives 5 points every now and again. It's hard to say how frequent this is
-* Videos: Never finds any videos to watch
+* <b>Sign up:</b> 10 points for signing up
+* <b>Search:</b> Search randomly gives 5 points every now and again. It's hard to say how frequent this is. If you don't earn from another source then search stops paying out.
+* <b>Videos:</b> Never finds any videos to watch
 
 Referral bonus
 --------

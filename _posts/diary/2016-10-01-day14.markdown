@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 14"
+date:   2016-10-01
+categories: diary
+---
+
+Still researching bitcoin and its ilk. 

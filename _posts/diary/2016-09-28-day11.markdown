@@ -6,3 +6,5 @@ categories: diary
 ---
 
 Signed up to a few more free money sites: [Prolific](/site/prolific.html), [Rewardingways](/site/rewardingways.html), [Pure Profile](/site/pureprofile.html). Pure profile turned out to be a really nice survey site.
+
+I've also added user rankings. Not because they were terribly needed but just because I felt like experimenting with firebase and being able to put dynamic content on what is fundamentally a static site.

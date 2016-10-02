@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 13"
+date:   2016-09-30
+categories: diary
+---
+
+Spending some time today researching bitcoin and other crypto currencies. It's something that I've never spent the time to research in depth and set myself up to use. I'm not going to go into detail about how to get everything setup as there are many better guides on the Internet than anything I could write. I did some experimenting with [FaucetBox](/site/faucetbox.html) to try and get some free coins but that's mostly a waste of time.
+
+I've also looked into mining various coins. So far the payout from this has been very small but at least it's something that can be easily done passively and without the dirty feeling you get from FaucetBox.
+
+I got my first payment from any site today. $12.68 from user testing. Nice to see that these sites do actually pay.
