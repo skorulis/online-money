@@ -6,8 +6,8 @@ referral-link: "https://mobilepanel2.nielsen.com/nenroll/home.do?type=load&l=en_
 banner-img: nielsen-banner.jpg
 icon-img: nielsen-icon.png
 minimum-redeem: ???
-earn-unit: $USD
-total-earned: $0
+earn-unit: point
+total-earned: 500
 from-referal: 0
 total-paid: 0
 features: monitoring.2
@@ -23,13 +23,14 @@ categories: site
 Ways to earn
 ---
 
+* 500 points for joining
 * Just setup the app and let it run. There's nothing else to do.
 
 
 Overall
 -------
 
-* The concept seems nice an passive but it's hard to get a feel for how much it's earning. I'm going to give it a few more days before I call this one.
+The concept seems nice an passive but it's hard to get a feel for how much it's earning. I'm going to give it a few more days before I call this one. After a few weeks I finally managed to get my payment account setup which is only showing my 500 points so I guess I wasn't being credited previously. Going to wait a few more weeks now to see how it starts earning
 
 
 
