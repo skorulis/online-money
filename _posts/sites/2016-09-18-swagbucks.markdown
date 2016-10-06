@@ -32,7 +32,7 @@ Ways to earn
 * TV: Looping channels that play in a separate window. Earns about 3 SB every 25 minutes
 * Games: Up to 25SB for playing games
 * Apps: Up to 150SB for download apps
-* Search: I got 20SB for the first search but am yet to see anything after this. The site says the payouts are random for this
+* <b>Search:</b> I got 20SB for the first search and randomly have gotten 7SB after completing a captcha a few times.
 
 
 Sweeps
@@ -43,19 +43,19 @@ Sweeps
 Daily rewards
 ----
 
-* 10% bonus at 30 SB and 80 SB
+* 10% variable bonus at 2 points from 30SB to 120SB.
 * Get increasing rewards up to 300SB for reaching the earning goal each day.
 
 Referral bonus
 --------
 
-* Get 10% as a bonus for the earnings of anyone you refer.
+Get 10% as a bonus for the earnings of anyone you refer.
 
 
 Overall
 -------
 
-* Swagbucks is one of the much more pleasant sites to use, it does crash or get stuck and I haven't had anything fail to reward me. It also feels less crippled for Australian users than many other sites. The surveys give decent rewards but are time consuming to complete but better than some other sites. There's some good app download deals but they don't come up that often. There's a lot of daily videos to watch which are enough to reach the daily goals which if reached every day will pay out decently at the end of the month.
+Swagbucks is one of the much more pleasant sites to use, it does crash or get stuck and I haven't had anything fail to reward me. It also feels less crippled for Australian users than many other sites. The surveys give decent rewards but are time consuming to complete but better than some other sites. There's some good app download deals but they don't come up that often. There's a lot of daily videos to watch which are enough to reach the daily goals which if reached every day will pay out decently at the end of the month.
 
 If you're looking for a place to start I would recommend this.
 

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "October 5th"
+date:   2016-10-05
+categories: diary
+---
+
+Started working on a chrome extension to pull balances from beermoney sites. Got some good feedback from [this reddit post](https://www.reddit.com/r/beermoney/comments/55yd1q/beermoney_balances_extension/) so it looks to be worth continuing on with tomorrow and hopefully getting ready for an initial beta release. You can see the [code here](https://github.com/skorulis/beermoney-balances)
+
+Took a look at Moz analytics again today. [http://skorulis.com](http://skorulis.com) is at 15 DA and 27 PA, still at spam score 6 which I thought I might have cleaned up after adding some more content. [https://positly.com](https://positly.com) has now started registering. Getting a DA of 5 and a PA of 21.
