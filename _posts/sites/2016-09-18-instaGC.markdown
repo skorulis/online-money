@@ -11,7 +11,7 @@ from-referal: 0
 total-paid: 0
 permalink: /:categories/:title.html
 banner-img: insta-gc-banner.png
-icon-img: insta-gc-icon.png
+icon-img: instagc-icon.png
 rating: 2
 features: search.2,videos.0,offer wall.2,surveys.2,pay to click.1
 

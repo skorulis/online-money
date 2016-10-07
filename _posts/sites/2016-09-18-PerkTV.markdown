@@ -6,7 +6,7 @@ last-update:   2016-09-19
 minimum-redeem: $10
 referral-link: http://perk.fm/4uunp
 banner-img: perk-banner.jpg
-icon-img: perk-icon.png
+icon-img: perktv-icon.png
 earn-unit: Perk points (PP)
 unit: PP
 conversion: 1500 PP = $1

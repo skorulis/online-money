@@ -12,7 +12,7 @@ permalink: /:categories/:title.html
 rating: 4
 features: videos.0,surveys.0,search.2,offer wall.0,games.0
 banner-img: inbox-pounds-banner.png
-icon-img: inbox-pounds-icon.png
+icon-img: inboxpounds-icon.png
 
 categories: site
 ---
