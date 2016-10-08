@@ -10,7 +10,7 @@ conversion: 100 Points = $1
 total-earned: 28 Points
 from-referal: 0
 total-paid: 0
-features: surveys.2,videos.1,offer wall.2,tasks.1
+features: surveys.2,videos.2,offer wall.2,tasks.1
 permalink: /:categories/:title.html
 rating: 6
 
@@ -22,12 +22,13 @@ Ways to earn
 
 * <b>Signup:</b> 28 points for completing sign up tasks
 * <b>Tasks:</b> Via crowdflower
-* <b>Videos:</b> 
+* <b>Videos:</b> The videos don't play for me but it still pays out 2 points for every 6 videos I click the play button on. This runs out pretty quickly.
+* <b>Surveys:</b> All via the offerwall, haven't bothered with them yet.
 
 Referral bonus
 --------
 
-20% of what they earn
+20% of what they earn. Bonus increases as your level does up to 30%.
 
 Overall
 -----
