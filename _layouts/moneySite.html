@@ -81,7 +81,7 @@ layout: default
     {{ content }}
   </div>
   
-  <a href="{{ post.referral-link }}"><h1 style="text-align: center;">Sign up now!</h1></a>
+  <a href="{{ page.referral-link }}"><h1 style="text-align: center;">Sign up now!</h1></a>
 
   <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 

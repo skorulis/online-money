@@ -1,0 +1,19 @@
+[
+  {
+    "signup":"2016-10-10",
+    "update":"2016-10-11",
+    "total":0,
+    "url":"https://biteminer.com",
+    "ref":"https://biteminer.com/signup?ref=107165",
+    "minimum-pay":0.005,
+    "comment":"Free mining gets shut down after 15 days"
+  },
+  {
+    "signup":"2016-10-11",
+    "update":"2016-10-11",
+    "total":0,
+    "url":"https://www.terabox.me",
+    "ref":"https://terabox.me?affiliate=skorulis",
+    "comment":"Requires purchase to activate free mining"
+  }
+]

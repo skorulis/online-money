@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "October 11th"
+date:   2016-10-11
+categories: diary
+---
+
+I've been a bit quiet for the last few days but it's because I've been busy rather than lazy
+
+I've released an [extension for monitoring beermoney site balances](http://beermoneybalances.skorulis.com). It's currently only available for chrome but I've submitted an extension for Firefox also which will hopefully be approved in a few days. So far it's gotten a decent reception, I'm hoping a few more features will start making it really useful.
+
+Still no payout from swagbucks but it's only been a few days so I'm not worried.
+
+I also came across a new type of site to earn; [Online cloud mining](/site/online-bitcoin-miners.html). For the most part it seems like a scam but there's very little effort to put in, just sign up and come back a year later and see if you have money.

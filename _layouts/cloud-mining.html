@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+
+        <table class="cloud-mining">
+          <tr class="cloud-mining-header">
+            <td>Site</td><td>Current balance(Satoshi)</td><td>Days active</td><td>Minimum payout (BTC)</td><td>Days until first payment</td>
+          </tr>
+          {% for s in site.data.cloud-mining %}
+            <tr>
+              <td class="cloud-mining-name"><a rel="nofollow" href="{{s.ref}}">{{s.url}}</a></td>
+              <td>{{s.total}}</td>
+              <td>{{s.days}}</td>
+              <td>{{s.minimum-pay}}</td>
+              <td>{{s.expected}}</td>
+            </tr>
+          {% endfor %}
+
+        </table>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
