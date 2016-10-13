@@ -1,105 +1,92 @@
 [
   {
     "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 601,
+    "update": "2016-10-13",
+    "total": 628,
     "url": "https://www.bitzfree.com/",
     "ref": "https://www.bitzfree.com/?ref=cnNhY2VAa2tsZW9va2wtcX1u",
     "minimum-pay": 0.0125,
-    "days": 1,
-    "expected": 2079
+    "days": 3,
+    "expected": 5980
   },
   {
     "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 8850,
+    "update": "2016-10-13",
+    "total": 24400,
     "url": "https://www.cryptomining.farm/",
     "ref": "https://www.cryptomining.farm/signup?referrer=57FABFC7D4A25",
     "minimum-pay": 0.01,
-    "days": 1,
-    "expected": 112
+    "days": 3,
+    "expected": 122
   },
   {
     "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 5882,
+    "update": "2016-10-13",
+    "total": 17646,
     "url": "https://internal.hashpoke.com/",
     "ref": "https://hashpoke.com/ref/PBpR",
     "minimum-pay": 0.005,
-    "days": 1,
+    "days": 3,
     "expected": 85
   },
   {
     "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 44,
+    "update": "2016-10-13",
+    "total": 160,
     "url": "https://top-mining-online.com",
     "ref": "https://top-mining-online.com/site/partner/1043",
     "minimum-pay": 0.001,
-    "days": 1,
-    "expected": 2272
+    "days": 3,
+    "expected": 1886
   },
   {
     "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 81,
-    "url": "https://bx-mining.com",
-    "ref": "https://BX-mining.com/?r=skorulis",
-    "minimum-pay": 0,
-    "comment": "Attempting to withdraw does nothing",
-    "days": 1,
-    "expected": "??"
-  },
-  {
-    "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 1658,
+    "update": "2016-10-13",
+    "total": 14448,
     "url": "https://techbtc.cloud",
     "ref": "https://techbtc.cloud/index/to/ref/24051",
     "minimum-pay": 0.003,
-    "days": 1,
-    "expected": 180
+    "days": 3,
+    "expected": 62
   },
   {
     "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 4737,
+    "update": "2016-10-13",
+    "total": 7033,
     "url": "https://upmcoins.com",
     "ref": "https://upmcoins.com/?ref=36294",
     "minimum-pay": 0.05,
-    "days": 1,
-    "expected": 1055
+    "days": 3,
+    "expected": 2133
   },
   {
     "signup": "2016-10-10",
-    "update": "2016-10-11",
-    "total": 4320,
+    "update": "2016-10-13",
+    "total": 11340,
     "url": "https://joltcorp.io",
-    "ref": "https://upmcoins.com/?ref=36294",
+    "ref": "https://joltcorp.io/?ref=16308",
     "minimum-pay": 0.003,
-    "days": 1,
-    "expected": 69
+    "days": 3,
+    "expected": 79
   },
   {
     "signup": "2016-10-11",
-    "update": "2016-10-11",
-    "total": 67,
+    "update": "2016-10-13",
+    "total": 123928,
     "url": "https://bitminer.io",
     "ref": "https://bitminer.io/referal",
     "minimum-pay": 0.005,
-    "days": 0,
-    "expected": "??"
+    "days": 2,
+    "expected": 8
   },
   {
     "signup": "2016-10-11",
-    "update": "2016-10-11",
-    "total": 45,
+    "update": "2016-10-13",
+    "total": 320,
     "url": "http://www.minerfarm.com",
     "ref": "http://www.minerfarm.com/login?r=75953#toregister",
     "minimum-pay": 0.0005,
-    "days": 0,
-    "expected": "??"
+    "days": 2,
+    "expected": 312
   }
-
-
 ]

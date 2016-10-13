@@ -15,5 +15,16 @@
     "url":"https://www.terabox.me",
     "ref":"https://terabox.me?affiliate=skorulis",
     "comment":"Requires purchase to activate free mining"
+  },
+  {
+    "signup": "2016-10-10",
+    "update": "2016-10-13",
+    "total": 214,
+    "url": "https://bx-mining.com",
+    "ref": "https://BX-mining.com/?r=skorulis",
+    "minimum-pay": 0,
+    "comment": "Cannot withdraw without first making a purchase ",
+    "days": 1,
+    "expected": "??"
   }
 ]
