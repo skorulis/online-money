@@ -7,7 +7,7 @@ banner-img: pureprofile-banner.jpg
 icon-img: pureprofile-icon.png
 minimum-redeem: $20
 earn-unit: $USD
-total-earned: $3.10
+total-earned: $15.90
 from-referal: 0
 total-paid: 0
 features: surveys.2

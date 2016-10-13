@@ -5,7 +5,7 @@ date:   2016-09-19
 referral-link: "http://www.clixsense.com/?980646"
 minimum-redeem: $8
 earn-unit: $USD
-total-earned: $0.0123
+total-earned: $0.13
 from-referal: 0
 total-paid: 0
 rating: 3

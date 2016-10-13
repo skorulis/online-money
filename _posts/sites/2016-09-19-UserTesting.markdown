@@ -9,7 +9,7 @@ minimum-redeem: $10
 earn-unit: $USD
 total-earned: $20
 from-referal: 0
-total-paid: 0
+total-paid: 25
 features: tasks.2
 permalink: /:categories/:title.html
 rating: 10

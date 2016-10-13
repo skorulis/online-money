@@ -7,7 +7,7 @@ referral-link: "http://www.swagbucks.com/p/register?rb=21823318"
 minimum-redeem: $5
 earn-unit: Swagbucks(SB) 100SB = $1
 unit: SB
-total-earned: 810
+total-earned: 3154
 from-referal: 0
 total-paid: 0
 rating: 9

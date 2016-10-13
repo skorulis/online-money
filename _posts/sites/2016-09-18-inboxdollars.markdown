@@ -7,7 +7,7 @@ banner-img: inbox-dollars-banner.png
 icon-img: inboxdollars-icon.png
 minimum-redeem: $30
 earn-unit: $USD
-total-earned: $6.22
+total-earned: $6.47
 from-referal: 0
 total-paid: 0
 permalink: /:categories/:title.html

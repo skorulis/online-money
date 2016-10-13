@@ -6,7 +6,7 @@ referral-link: "http://earnably.com/r/skorulis"
 minimum-redeem: ???
 earn-unit: points
 conversion: 100 points = $1
-total-earned: 4.85
+total-earned: 20.85
 from-referal: 0
 total-paid: 0
 rating: 2

@@ -1,0 +1,31 @@
+---
+layout: moneySite
+title:  "iRazoo"
+date:   2016-10-13
+referral-link: "https://www.irazoo.com/"
+icon-img: irazoo-icon.png
+minimum-redeem: $5
+earn-unit: Points
+conversion: 600 Points = $1
+total-earned: 215 Points
+from-referal: 0
+total-paid: 0
+features: surveys.2,videos.1,offer wall.2
+permalink: /:categories/:title.html
+rating: 5
+
+categories: site
+---
+
+Ways to earn
+---
+
+* <b>Signup:</b> 215 points for completing sign up tasks
+* <b>Videos:</b> Via external providers. none available
+* <b>Surveys:</b> All via the offerwall, haven't bothered with them yet.
+
+
+Overall
+-----
+
+It's a decent looking site but basically everything is via external offers that you can get on any other site. It's just not brining anything new.

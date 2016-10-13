@@ -5,7 +5,7 @@ date:   2016-09-18
 referral-link: "http://www.inboxpounds.co.uk/?r=ref1892679&s=7"
 minimum-redeem: £20
 earn-unit: £UK
-total-earned: £2.02
+total-earned: £3.74
 from-referal: 0
 total-paid: 0
 permalink: /:categories/:title.html

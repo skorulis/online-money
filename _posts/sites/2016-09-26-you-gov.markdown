@@ -6,7 +6,7 @@ referral-link: "https://au.yougov.com/"
 minimum-redeem: $25
 earn-unit: points
 conversion: 200 points = $1
-total-earned: 280
+total-earned: 1360
 from-referal: 0
 total-paid: 0
 rating: 6
