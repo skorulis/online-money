@@ -4,14 +4,36 @@ layout: default
 
 <div class="home">
 
-	<p>This blog details my attempts at making money online. I mean I spend most of my time sitting in front of a computer so I might as well spend that time trying to turn a profit. Being from the land down under presents some challenges and limits or reduces many potential ways to earn money. In light of that my reviews and discussion will be based on Australian earning potential so if you're in another country this may not be the same.  </p>
+	<p>These sites let you sign up and start earning money doing all sorts of things. I've ranked them in order of how effective I found them. Keep in mind this is from the point of view of an Australian trying to earn money using mostly passive methods. If you're in a different situation then your results may vary.</p>
 
+  <ul class="post-list">
+  	{% assign sortedPosts = "" | split:"|" %}
+  	{% for post in site.posts %}
+  		{% if post.categories[0] == "site" %}
+  			{% assign sortedPosts = sortedPosts | push: post %}
+  		{% endif %}
+  	{% endfor %}
+  
+  	{% assign sortedPosts = sortedPosts | sort: 'rating' | reverse %}
 
-	<a href="/sites"><h2>"Free money" sites</h2></a>
-	
-	<a href="/seo.html"><h2>Online marketing</h2></a>
-	
-	<a href="/diary.html"><h2>Daily diary</h2></a>
+    {% for post in sortedPosts %}
+    	
+    		<li class="post-link">
+        		<a href="{{ post.url | prepend: site.baseurl }}">
+        		{% if post.icon-img %}
+        			<img class="site-icon" src="/assets/site-logos/{{ post.icon-img }}" alt="{{ post.title }}" />
+        		{% endif %}
+            </a>
+            <div class="link-details">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+        		    <h2>{{ post.title }}</h2>	
+              </a>
+              <p class="sub-details">My rating: {{ post.rating}} / 10
+            </div>
+      		</li>
+    	
+    {% endfor %}
+  </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

@@ -10,7 +10,7 @@ conversion: 100 Points = $1
 total-earned: 100 Points
 from-referal: 0
 total-paid: 0
-features: surveys.2,videos.1,offer wall.2,pay to click.0,tasks.2
+features: surveys.2,videos.0,offer wall.2,pay to click.0
 permalink: /:categories/:title.html
 rating: 3
 
