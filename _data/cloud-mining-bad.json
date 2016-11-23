@@ -26,5 +26,16 @@
     "comment": "Cannot withdraw without first making a purchase ",
     "days": 1,
     "expected": "??"
+  },
+  {
+    "signup": "2016-10-11",
+    "update": "2016-10-13",
+    "total": 123928,
+    "url": "https://bitminer.io",
+    "ref": "https://bitminer.io/488985",
+    "comment": "An absolute scam, withdrawing just takes your balance away and pays you nothing ",
+    "minimum-pay": 0.005,
+    "days": 2,
+    "expected": 8
   }
 ]
