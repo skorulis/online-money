@@ -3,7 +3,7 @@ layout: moneySite
 title:  "EarnHoney"
 date:   2016-09-19
 last-update: 2016-09-19
-referral-link: "www.earnhoney.com/home/?referrer=11E7924DB8"
+referral-link: "https://www.earnhoney.com/home/?referrer=11E7924DB8"
 minimum-redeem: 200HD
 earn-unit: HoneyDollars (HD) 100HD = $1
 total-earned: 69.4

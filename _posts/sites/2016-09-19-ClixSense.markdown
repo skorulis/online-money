@@ -2,7 +2,7 @@
 layout: moneySite
 title:  "ClixSense"
 date:   2016-09-19
-referral-link: "http://www.clixsense.com/?980646"
+referral-link: "https://www.clixsense.com/?980646"
 minimum-redeem: $8
 earn-unit: $USD
 total-earned: $0.13
